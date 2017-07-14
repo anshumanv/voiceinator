@@ -15,4 +15,4 @@ The app uses language packs present in the system and thus the options to select
 
 ### License  
 
-MIT © (Anshuman Verma)[https://twitter.com/Anshumaniac12]
+MIT © [Anshuman Verma](https://twitter.com/Anshumaniac12)
