@@ -5,7 +5,7 @@
 
 ### Usage
 
-Select preferred language, speed, pitch and the text you wanna speak.
+Select preferred language pack, speech rate, pitch and the text you wanna hear.
   
 
 #### Note:
